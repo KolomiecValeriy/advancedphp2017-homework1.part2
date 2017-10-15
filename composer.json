@@ -1,0 +1,12 @@
+{
+    "name": "valeriy/homework1_2",
+    "require": {
+        "symfony/symfony": "2.8"
+    },
+    "authors": [
+        {
+            "name": "Valeriy Kolomiets",
+            "email": "vel202007@gmail.com"
+        }
+    ]
+}
